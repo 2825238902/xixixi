@@ -20,6 +20,8 @@ _🦌 网页小游戏 🥛_
 |
 [原UP鹿乃b站](https://space.bilibili.com/316381099)
 |
+[失败音效来源](https://m.bilibili.com/video/BV1734y1J7Qo?is_story_h5=false&p=1&share_from=ugc&share_medium=android&share_plat=android&share_session_id=6f3125a0-65db-4d7b-9b44-8db5c6890e02&share_source=COPY&share_tag=s_i&timestamp=1660212492&unique_k=mlXFUwE&share_times=2&)
+|
 [线上版本](https://xingye.me/game/eatkano/index.php)
 |
 [Github Pages](https://arcxingye.github.io/EatKano/index.html)
